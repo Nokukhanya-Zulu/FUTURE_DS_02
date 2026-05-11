@@ -39,7 +39,7 @@ Analysis of a telecommunications company's customer dataset containing **7,043 c
   Churn by gender, senior citizen status, partner status, dependents. Service impact: paperless billing, tech support, online security.
 
 - **Page 4 — Retention Insights and Recommendations**  
-  High‑risk customer count (~2,128), monthly revenue lost (~$100K). Top risk factor combinations (e.g., month‑to‑month + fiber optic + electronic check). Actionable recommendations to reduce churn.
+  High‑risk customer count (2,128), monthly revenue lost (100K). Top risk factor combinations (e.g., month‑to‑month + fiber optic + electronic check). Actionable recommendations to reduce churn.
 
 ## Key Insights
 
